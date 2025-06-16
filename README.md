@@ -19,9 +19,6 @@ The final dashboard includes the following visuals:
 
 These visuals offer insights into trends and preferences among data professionals across various regions and roles.
 
-## Files
-
-| File Name                          | Description                                 |
-|-----------------------------------|---------------------------------------------|
-| `Data Professional Survey Dashboard.pbix` | Power BI dashboard file                     |
-| `Power BI - Final Project.xlsx`          | Raw survey data cleaned using Power Query   |
+## 📁 Files
+- `Data Professional Survey Dashboard.pbix`
+- `Power BI - Final Project.xlsx`
