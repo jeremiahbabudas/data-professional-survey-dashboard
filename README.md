@@ -4,7 +4,7 @@ This project is a Power BI dashboard created using survey data from data profess
 
 The Excel dataset (`Power BI - Final Project.xlsx`) was loaded and cleaned within Power BI using Power Query, where necessary columns were transformed and filtered for better visual analysis.
 
-## Dashboard Features
+## 🧩 Dashboard Features
 
 The final dashboard includes the following visuals:
 
