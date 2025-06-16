@@ -24,5 +24,5 @@ These visuals offer insights into trends and preferences among data professional
 - `Power BI - Final Project.xlsx`
 
 ## 📷 Screenshot
-  ![Dashboard Preview](Dashboard Screenshot.png)
+![Dashboard Preview](Dashboard Screenshot.png)
 
