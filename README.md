@@ -22,3 +22,7 @@ These visuals offer insights into trends and preferences among data professional
 ## 📁 Files
 - `Data Professional Survey Dashboard.pbix`
 - `Power BI - Final Project.xlsx`
+
+## 📷 Screenshot
+  ![Dashboard Preview](DashboardScreenshot.png)
+
